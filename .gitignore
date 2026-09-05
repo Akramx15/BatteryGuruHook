@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+*.class
+
+# Temp files
+smali_out/
+
+# APK files (except in releases folder)
+*.apk
+
+# System
+.DS_Store
+Thumbs.db
